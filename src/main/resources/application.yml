@@ -1,0 +1,8 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://chaitanyashetty47:lokirahul123@cluster0.s1g5pmn.mongodb.net/
+      database: sportsbuddy
+
+
+
